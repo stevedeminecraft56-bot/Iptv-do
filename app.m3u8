@@ -68,5 +68,5 @@ https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 group-title="Republica Dominicana", Antena 21
 190.122.104.210:5080/LiveApp/streams/antena21.m3u8
 
-#EXTINF:-1 group-title="Republica Dominicana", 
+#EXTINF:-1 group-title="Republica Dominicana", Tele union
 http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
